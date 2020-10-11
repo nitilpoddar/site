@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding: 0;
+}
+#sec-header{
+    background-color: rgb(4, 4, 46);
+}
+#header-div h1{
+    color: white;
+}
